@@ -1,5 +1,7 @@
 # React + Vite
 
+get api Data and show all data in cart then this data get one particular id all data and show this all data in table format .
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
